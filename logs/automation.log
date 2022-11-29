@@ -27,3 +27,73 @@
 13:25:41.835 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - Entred confirm poassword
 13:25:42.112 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - clicked on privacy policy
 13:25:53.462 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - ***********************Finished TC_RF_0012_Registration******************
+16:24:31.245 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - **********Started TC_RF_0012_Registarion***************
+16:24:32.911 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - clicked on MyAccount
+16:24:37.989 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - clicked on Register
+16:24:39.360 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - Entred First Name
+16:24:39.575 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - Entred Last Name using action class TAB button
+16:24:39.695 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - Entred Email Add using action class TAB button
+16:24:39.784 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - Entred Phone Number using action class TAB button
+16:24:39.859 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - Entred password using action class TAB button
+16:24:39.929 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - Entred confirm poassword using action class TAB button
+16:24:39.947 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - selectd newsletter subscription  by default no using TAB key
+16:24:40.018 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - switch on using TAB key
+16:24:40.036 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - sitch on privacy policy selection box using TAB key
+16:24:40.302 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - clicked on privacy policy 
+16:24:40.316 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - switch to continue button using TAB key
+16:24:45.839 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - click on continue button using ENTER kry
+16:24:46.015 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - Account successfully registered msg dispalyed
+16:24:46.015 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - ***********************Finished TC_RF_0012_Registration******************
+16:32:12.553 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - **********Started TC_RF_0012_Registarion***************
+16:32:14.548 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - clicked on MyAccount
+16:34:30.973 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - **********Started TC_RF_0012_Registarion***************
+16:34:33.042 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - clicked on MyAccount
+16:34:37.254 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - clicked on Register
+16:34:41.222 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - Entred First Name
+16:34:41.801 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - Entred Last Name using action class TAB button
+16:34:42.186 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - Entred Email Add using action class TAB button
+16:34:42.264 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - Entred Phone Number using action class TAB button
+16:34:42.341 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - Entred password using action class TAB button
+16:34:42.422 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - Entred confirm poassword using action class TAB button
+16:34:42.452 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - selectd newsletter subscription  by default no using TAB key
+16:34:42.728 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - switch on using TAB key
+16:34:42.750 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - sitch on privacy policy selection box using TAB key
+16:34:42.889 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - clicked on privacy policy 
+16:34:42.921 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - switch to continue button using TAB key
+16:34:52.309 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - click on continue button using ENTER kry
+16:34:52.499 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - Account successfully registered msg dispalyed
+16:34:52.499 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - ***********************Finished TC_RF_0012_Registration******************
+16:39:44.088 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - **********Started TC_RF_0012_Registarion***************
+16:39:45.544 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - clicked on MyAccount
+16:39:51.012 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - clicked on Register
+16:39:54.498 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - Entred First Name
+16:39:54.818 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - Entred Last Name using action class TAB button
+16:39:54.938 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - Entred Email Add using action class TAB button
+16:39:55.281 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - Entred Phone Number using action class TAB button
+16:39:55.347 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - Entred password using action class TAB button
+16:39:55.432 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - Entred confirm poassword using action class TAB button
+16:39:55.448 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - selectd newsletter subscription  by default no using TAB key
+16:39:55.836 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - switch on using TAB key
+16:39:55.851 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - sitch on privacy policy selection box using TAB key
+16:39:56.183 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - clicked on privacy policy 
+16:39:56.210 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - switch to continue button using TAB key
+16:40:01.962 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - click on continue button using ENTER kry
+16:40:02.212 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - Account successfully registered msg dispalyed
+16:40:02.212 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - ***********************Finished TC_RF_0012_Registration******************
+16:44:48.855 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - **********Started TC_RF_0012_Registarion***************
+16:44:50.767 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - clicked on MyAccount
+16:44:55.861 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - clicked on Register
+16:44:59.190 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - Entred First Name
+16:44:59.756 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - Entred Last Name using action class TAB button
+16:44:59.886 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - Entred Email Add using action class TAB button
+16:44:59.991 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - Entred Phone Number using action class TAB button
+16:45:00.266 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - Entred password using action class TAB button
+16:45:00.343 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - Entred confirm poassword using action class TAB button
+16:45:00.359 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - selectd newsletter subscription  by default no using TAB key
+16:45:00.613 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - switch on using TAB key
+16:45:00.657 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - sitch on privacy policy selection box using TAB key
+16:45:00.984 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - clicked on privacy policy 
+16:45:01.023 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - switch to continue button using TAB key
+16:45:12.122 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - click on continue button using ENTER kry
+16:45:12.346 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - Account successfully registered msg dispalyed
+16:45:12.347 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - ***********************Finished TC_RF_0012_Registration******************
