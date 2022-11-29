@@ -1,0 +1,29 @@
+23:00:07.771 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0024 - clicked on MyAccount
+23:00:09.118 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0024 - clicked on Register
+23:00:10.318 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0024 - Enter First Name
+23:00:10.496 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0024 - Enter Last Name
+23:00:11.130 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0024 - Enter Email
+23:00:11.315 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0024 - Enter Phone Number
+23:00:11.497 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0024 - Enterd Password
+23:00:11.601 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0024 - clicked on privacy policy
+23:00:13.519 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0024 - clicked on Continue
+23:01:32.943 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0024 - clicked on MyAccount
+23:01:34.230 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0024 - clicked on Register
+23:01:34.609 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0024 - Enter First Name
+23:01:34.801 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0024 - Enter Last Name
+23:01:35.567 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0024 - Enter Email
+23:01:35.770 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0024 - Enter Phone Number
+23:01:35.928 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0024 - Enterd Password
+23:01:36.040 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0024 - clicked on privacy policy
+23:01:37.240 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0024 - clicked on Continue
+13:25:30.672 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - **********Started TC_RF_0012_Registarion***************
+13:25:32.739 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - clicked on MyAccount
+13:25:37.769 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - clicked on Register
+13:25:40.990 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - Entred First Name
+13:25:41.397 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - Entred Last Name
+13:25:41.514 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - Entred Email Add
+13:25:41.615 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - Entred Phone Number
+13:25:41.707 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - Entred password
+13:25:41.835 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - Entred confirm poassword
+13:25:42.112 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - clicked on privacy policy
+13:25:53.462 [main] INFO  testCases.RegistrationFunctionality.TC_RF_0012 - ***********************Finished TC_RF_0012_Registration******************
